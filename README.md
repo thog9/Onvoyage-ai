@@ -1,4 +1,4 @@
-**# Onvoyage AI Scripts 🚀
+# Onvoyage AI Scripts 🚀
 
 This collection of Python scripts empowers you to interact seamlessly with the Onvoyage AI, a blockchain test network for decentralized applications. The core script, `main.py`, offers automation and multi-account support for core testnet activities.
 
