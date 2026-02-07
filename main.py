@@ -64,7 +64,7 @@ async def cmd_exit(language: str):
 # Danh sách lệnh menu
 SCRIPT_MAP = {
     "checkinX": run_checkinX,
-    "checkinXtoken": run_checkintoken,
+    "checkintoken": run_checkintoken,
     "exit": cmd_exit
 }
 
@@ -194,6 +194,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
